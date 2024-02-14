@@ -1,10 +1,10 @@
-# Joobisb Gh-switch
+# gh-switch
 
 ## How do I install these formulae?
 
-`brew install joobisb/gh-switch/<formula>`
+`brew install joobisb/gh-switch/gh-switch`
 
-Or `brew tap joobisb/gh-switch` and then `brew install <formula>`.
+Or `brew tap joobisb/gh-switch` and then `brew install gh-switch`.
 
 ## Documentation
 
